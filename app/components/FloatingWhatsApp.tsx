@@ -9,7 +9,7 @@ const BRAND_CONFIG = {
   BG_CANVAS: '#09090B',
   LOGO_PATH: '/img/banner-logo.png',
   PROFILE_PATH: '/img/profile.webp',
-  WHATSAPP_URL: 'https://wa.me/4915000000000',
+  WHATSAPP_URL: 'https://support-tv.online',
 };
 
 export default function FloatingWhatsApp() {
